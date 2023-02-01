@@ -1,0 +1,16 @@
+.Navbar {
+    font-weight: bold;
+    font-size: x-large;
+    padding: 10px;
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-around;
+    }
+    li {
+        background-image: linear-gradient(to top right, rgb(59, 58, 58), rgb(202, 201, 201), rgb(59, 58, 58));
+        padding: 15px;
+        border-radius: 10px;
+        border: none;
+    }
+}
